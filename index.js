@@ -26,8 +26,8 @@ string = string.toUpperCase()
     return "YES INDEED!"
   }
 var string = "I love you, Grandma"
-sayHiToGrandma = string
-  else (sayHitoGrandma === string) {
+string = string
+  else (string === string) {
     return "I love you, too"
   }
 }
