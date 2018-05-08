@@ -25,12 +25,9 @@ sayHiToGrandma = string.toUpperCase()
   else if (sayHiToGranma = string) {
     return "YES INDEED!"
   }
-var sayHiToGranma = "I love you, Grandma"
-sayHiToGranma = string
-  else (sayHitoGrandma = string) 
-
-
-  it('returns "I love you, too." if `string` is "I love you, Grandma."`', function() {
-    expect(sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.")
-  })
-})
+var sayHitoGrandma = "I love you, Grandma"
+sayHiToGrandma = string
+  else (sayHitoGrandma = string) {
+    return "I love you, too"
+  }
+}
