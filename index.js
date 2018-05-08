@@ -17,12 +17,12 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
 var sayHiToGrandma = "hello"
 sayHitoGrandma = "I can't hear you"
-  if (string = lowercase) {
+  if (sayHitoGrandma = lowercase) {
     return "I can't hear you!"
   }
 var sayHiToGranma = "HELLO"
 sayHiToGranma = "YES INDEED!"
-}
+  else (sayHiToGranma = uppercase) {
 
 
   it('returns "YES INDEED!" if `string` is uppercase', function() {
