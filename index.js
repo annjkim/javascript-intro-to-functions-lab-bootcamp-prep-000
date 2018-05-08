@@ -22,7 +22,7 @@ sayHitoGrandma = "I can't hear you"
   }
 var sayHiToGranma = "HELLO"
 sayHiToGranma = "YES INDEED!"
-  else (sayHiToGranma = uppercase) {
+  else if (sayHiToGranma = uppercase) {
 
 
   it('returns "YES INDEED!" if `string` is uppercase', function() {
