@@ -19,12 +19,10 @@ var string = "hello"
   if (string === lowercase) {
     return "I can't hear you!"
   }
-var string = "HELLO"
-  else if (string === uppercase) {
+  else if (string === "HELLO") {
     return "YES INDEED!"
   }
-var string = "I love you, Grandma"
-  else (string === string) {
+  else (string === "I love you, Grandma") {
     return "I love you, too"
   }
 }
