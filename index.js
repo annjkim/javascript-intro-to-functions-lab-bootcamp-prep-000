@@ -16,18 +16,19 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
 var sayHiToGrandma = "hello"
-sayHitoGrandma = "I can't hear you"
+sayHitoGrandma = string.toLowerCase()
   if (sayHitoGrandma = lowercase) {
     return "I can't hear you!"
   }
-var sayHiToGranma = "HELLO"
-sayHiToGranma = "YES INDEED!"
-  else if (sayHiToGranma = uppercase) {
+var sayHiToGrandma = "HELLO"
+sayHiToGrandma = string.toUpperCase()
+  else if (sayHiToGranma = string) {
+    return "YES INDEED!"
+  }
+var sayHiToGranma = "I love you, Grandma"
+sayHiToGranma = string
+  else (sayHitoGrandma = string) 
 
-
-  it('returns "YES INDEED!" if `string` is uppercase', function() {
-    expect(sayHiToGrandma('HELLO')).toEqual("YES INDEED!")
-  })
 
   it('returns "I love you, too." if `string` is "I love you, Grandma."`', function() {
     expect(sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.")
